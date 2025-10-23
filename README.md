@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I'm Axel</h1>
+Hi my name is Axel, I'm a student in CS aspiring Cyber Security Engineer
